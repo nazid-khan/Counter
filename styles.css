@@ -165,10 +165,12 @@ main {
 .container {
   text-align: center;
 }
+/* Text value */
 #value {
   font-size: 6rem;
   font-weight: bold;
 }
+/* button */
 .btn {
   text-transform: uppercase;
   background: transparent;
@@ -184,6 +186,7 @@ main {
   border-radius: var(--radius);
   margin: 0.5rem;
 }
+/* button hover */
 .btn:hover {
   color: var(--clr-white);
   background: var(--clr-black);
